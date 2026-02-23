@@ -1,2 +1,3 @@
 Texto inicial deste TXT
 Testando funcionalidade A + B (Teste)
+Testando funcionalidade B - Nova
