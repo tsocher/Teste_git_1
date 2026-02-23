@@ -1,2 +1,2 @@
 Texto inicial deste TXT
-Testando funcionalidade A
+Testando funcionalidade A + B (Teste)
